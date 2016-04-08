@@ -1,7 +1,8 @@
-package xmless
+package xmless.test
 
 import org.scalatest._
 import scala.xml._
+import xmless._
 import xmless.syntax.toXml._
 import Defaults._
 import cats.syntax.option._
