@@ -3,7 +3,9 @@ package xmless
 import scala.annotation.implicitNotFound
 import scala.xml._
 import cats.{ Foldable, Show }
-import cats.std.{ AnyValInstances, BigDecimalInstances, ListInstances, OptionInstances, StringInstances }
+import cats.std.{ AnyValInstances, BigDecimalInstances, OptionInstances, ListInstances }
+import cats.syntax.show._
+import cats.syntax.foldable._
 
 /**
  * Type classto serialise a value to XML
@@ -19,20 +21,25 @@ object ToXml {
 }
 
 trait FromFoldableInstances extends ListInstances with OptionInstances {
-  import cats.syntax.foldable._
   implicit def foldableToXml[F[_]: Foldable, T](implicit tx: ToXml[T]) = new ToXml[F[T]] {
     def toXml(f: F[T]) = f.foldLeft(NodeSeq.Empty)((ac: NodeSeq, elem: T) => ac ++ tx.toXml(elem))
   }
 }
 
-trait FromShowInstances extends AnyValInstances with BigDecimalInstances with StringInstances {
-  import cats.syntax.show._
+trait FromShowInstances extends AnyValInstances with BigDecimalInstances {
   implicit def fromShow[T](implicit show: Show[T]): ToXml[T] = new ToXml[T] {
     def toXml(t: T) = Text(t.show)
   }
 }
 
-trait DefaultToXmlInstances extends FromFoldableInstances with FromShowInstances
+trait StringInstances {
+  // Make a special case for string:
+  implicit val stringToXml: ToXml[String] = new ToXml[String] {
+    def toXml(s: String) = Text(s)
+  }
+}
+
+trait DefaultToXmlInstances extends FromShowInstances with FromFoldableInstances with StringInstances
 
 object Defaults extends DefaultToXmlInstances
 

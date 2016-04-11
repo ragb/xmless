@@ -1,5 +1,5 @@
 package xmless
 
 package object generic {
-  val generic = new ToXmlGeneric {}
+  object toXml extends ToXmlGeneric
 }
