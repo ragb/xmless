@@ -6,6 +6,7 @@ import Defaults._
 
 case class Person(name: String)
 case class Persons(l: List[Person])
+case class A(l: List[A])
 
 class ToXmlGenericTest extends FlatSpec with Matchers {
   def serialize[T](t: T)(implicit tx: ToXmlElement[T]) = tx.toXml(t).toString
@@ -20,6 +21,10 @@ class ToXmlGenericTest extends FlatSpec with Matchers {
     val p2 = Person("Richard")
     val s = Persons(List(p1, p2))
     serialize(s) shouldBe """<Persons><l><Person><name>John</name></Person><Person><name>Richard</name></Person></l></Persons>"""
+  }
 
+  it should "Derive toXml on recursive case classes" in {
+    val a = A(List(A(List())))
+    serialize(a) shouldBe "<A><l><A><l/></A></l></A>"
   }
 }
