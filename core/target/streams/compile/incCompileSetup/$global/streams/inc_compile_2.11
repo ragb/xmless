@@ -1,0 +1,303 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes
+compile options:
+11 items
+00 -> -Xplugin:/Users/ruiandrebatista/.ivy2/cache/org.scalamacros/paradise_2.11.8/jars/paradise_2.11.8-2.1.0.jar
+01 -> -encoding
+02 -> UTF-8
+03 -> -deprecation
+04 -> -unchecked
+05 -> -feature
+06 -> -Xlint
+07 -> -Ywarn-unused-import
+08 -> -language:implicitConversions
+09 -> -language:postfixOps
+10 -> -language:higherKinds
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+31 items
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/package$.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/package.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/ToXmlSyntax$ToXmlElementOps.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/ToXmlSyntax$class.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/ToXmlSyntax.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/package$$anon$1.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/package$.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/package.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/DefaultToXmlInstances.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/Defaults$.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/Defaults.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromFoldableInstances$$anon$1$$anonfun$toXml$1.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromFoldableInstances$$anon$1.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromFoldableInstances$class.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromFoldableInstances.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromShowInstances$$anon$2.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromShowInstances$class.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromShowInstances.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/StringInstances$$anon$3.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/StringInstances$class.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/StringInstances.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXml$.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXml.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlElement$.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlElement.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlElementLowPriorityInstances$.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlElementLowPriorityInstances$fresh$macro$6.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlElementLowPriorityInstances.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlLowPriorityInstances$.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlLowPriorityInstances$fresh$macro$3.class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlLowPriorityInstances.class
+binary dependencies:
+12 items
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> /Users/ruiandrebatista/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> /Users/ruiandrebatista/.ivy2/cache/org.typelevel/cats-core_2.11/jars/cats-core_2.11-0.4.1.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> /Users/ruiandrebatista/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.5.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> /Users/ruiandrebatista/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.5.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/.ivy2/cache/org.typelevel/cats-core_2.11/jars/cats-core_2.11-0.4.1.jar
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> /Users/ruiandrebatista/.ivy2/cache/org.typelevel/export-hook_2.11/jars/export-hook_2.11-1.1.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> /Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> /Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+1 items
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> /Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala
+inheritance external dependencies:
+0 items
+class names:
+31 items
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> xmless.package
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> xmless.package$
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> xmless.syntax.ToXmlSyntax
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> xmless.syntax.ToXmlSyntax$ToXmlElementOps
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> xmless.syntax.ToXmlSyntax$class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> xmless.syntax.package
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> xmless.syntax.package$
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> xmless.syntax.package$$anon$1
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.DefaultToXmlInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.Defaults
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.Defaults$
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.FromFoldableInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.FromFoldableInstances$$anon$1
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.FromFoldableInstances$$anon$1$$anonfun$toXml$1
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.FromFoldableInstances$class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.FromShowInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.FromShowInstances$$anon$2
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.FromShowInstances$class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.StringInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.StringInstances$$anon$3
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.StringInstances$class
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.ToXml
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.ToXml$
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.ToXmlElement
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.ToXmlElement$
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.ToXmlElementLowPriorityInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.ToXmlElementLowPriorityInstances$
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.ToXmlElementLowPriorityInstances$fresh$macro$6
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.ToXmlLowPriorityInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.ToXmlLowPriorityInstances$
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless.ToXmlLowPriorityInstances$fresh$macro$3
+used names:
+93 items
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> <init>
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> AnyRef
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> Predef
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> String
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> T
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> ValidatedNel
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> cats
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> data
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> package
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> scala
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> xmless
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> <init>
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> AnyRef
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> T
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> ToXmlElement
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> ToXmlElementOps
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> scala
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> syntax
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> toXml
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> tx
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> value
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> xmless
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> $anon
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> <init>
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> AnyRef
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> ToXmlSyntax
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> package
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> scala
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> syntax
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> toXml
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> xmless
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> $anon
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> ++
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> <init>
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> AnyRef
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> AnyValInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> BigDecimalInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> DefaultToXmlInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> Defaults
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> Elem
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> Empty
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> ExportMacro
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> F
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> Foldable
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> FromFoldableInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> FromShowInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> ListInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> NodeSeq
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> OptionInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> Predef
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> Show
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> String
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> StringInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> T
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> Text
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> ToXml
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> ToXmlElement
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> ToXmlElementLowPriorityInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> ToXmlLowPriorityInstances
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> ac
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> annotation
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> apply
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> canBuildFrom
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> cats
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> elem
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> experimental
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> export
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> f
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> foldLeft
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> foldable
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> fresh$macro$2
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> fresh$macro$3
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> fresh$macro$5
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> fresh$macro$6
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> implicitNotFound
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> importImpl0
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> instance
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> language
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> macros
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> package
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> s
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> scala
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> show
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> std
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> stringToXml
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> syntax
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> t
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> toFoldableOps
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> toShowOps
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> toXml
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> tx
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xml
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> xmless
+product stamps:
+31 items
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/DefaultToXmlInstances.class -> lastModified(1460472618000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/Defaults$.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/Defaults.class -> lastModified(1460472618000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromFoldableInstances$$anon$1$$anonfun$toXml$1.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromFoldableInstances$$anon$1.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromFoldableInstances$class.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromFoldableInstances.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromShowInstances$$anon$2.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromShowInstances$class.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/FromShowInstances.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/StringInstances$$anon$3.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/StringInstances$class.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/StringInstances.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXml$.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXml.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlElement$.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlElement.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlElementLowPriorityInstances$.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlElementLowPriorityInstances$fresh$macro$6.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlElementLowPriorityInstances.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlLowPriorityInstances$.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlLowPriorityInstances$fresh$macro$3.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/ToXmlLowPriorityInstances.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/package$.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/package.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/ToXmlSyntax$ToXmlElementOps.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/ToXmlSyntax$class.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/ToXmlSyntax.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/package$$anon$1.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/package$.class -> lastModified(1460472619000)
+/Users/ruiandrebatista/dev/test/xmless/core/target/scala-2.11/classes/xmless/syntax/package.class -> lastModified(1460472619000)
+source stamps:
+4 items
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> hash(015a52a22c02e42f1a3b46b97d44a2e66a17507e)
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> hash(54a9811351504581515ede416caa923b2cfad371)
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> hash(853b0ac2bcddafde9da0b36f2575f7b709e0a3e3)
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> hash(e07173f7be6f34c424ee95c2c55d63c3e2cc058e)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1454111452000)
+/Users/ruiandrebatista/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.5.jar -> lastModified(1437765146000)
+/Users/ruiandrebatista/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/Users/ruiandrebatista/.ivy2/cache/org.typelevel/cats-core_2.11/jars/cats-core_2.11-0.4.1.jar -> lastModified(1454637307000)
+/Users/ruiandrebatista/.ivy2/cache/org.typelevel/export-hook_2.11/jars/export-hook_2.11-1.1.0.jar -> lastModified(1447259574000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ruiandrebatista/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.5.jar -> scala.xml.Text
+/Users/ruiandrebatista/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Unit
+/Users/ruiandrebatista/.ivy2/cache/org.typelevel/cats-core_2.11/jars/cats-core_2.11-0.4.1.jar -> cats.std.BigDecimalInstances
+/Users/ruiandrebatista/.ivy2/cache/org.typelevel/export-hook_2.11/jars/export-hook_2.11-1.1.0.jar -> export.ExportMacro
+internal apis:
+4 items
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAniJdBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cG7xs2V0AAZub3RpZnlzcQB+AAzD+WRpdAAHcGFja2FnZXNxAH4ADJ9d+Fx0AAlYbWxSZXN1bHRzcQB+AAxHrOUGdAAEd2FpdHNxAH4ADM6Pb6p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMukNy63QABmVxdWFsc3NxAH4ADP9w5ZZ0AAxhc0luc3RhbmNlT2ZzcQB+AAzUfLlcdAAMc3luY2hyb25pemVkc3EAfgAMqc294nQADSRpc0luc3RhbmNlT2ZzcQB+AAxxK/C+dAAJbm90aWZ5QWxsc3EAfgAMfWLgDnQADGlzSW5zdGFuY2VPZnNxAH4ADL4tDjF0AAI9PXNxAH4ADOx0Eeh0AAVjbG9uZXNxAH4ADBakCvd0AAh0b1N0cmluZ3NxAH4ADH6/8t90AAIhPXNxAH4ADEVehQh0AAhnZXRDbGFzc3NxAH4ADMUmeIx0AAJuZXNxAH4ADKZ+8HB0AAJlcXNxAH4ADLS/6nl0AAIjI3NxAH4ADLQI9aF0AAhmaW5hbGl6ZXNxAH4ADCY34sZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA54bWxlc3MucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFkAcHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGJzcQB+AFkAcHNxAH4AXnVxAH4APAAAAABzcQB+AFkAcHNxAH4AXnVxAH4APAAAAABzcQB+AFkAcHNxAH4AXnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGeG1sZXNzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUCvNqPnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEUvVXNlcnMvcnVpYW5kcmViYXRpc3RhL2Rldi90ZXN0L3htbGVzcy9jb3JlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQBWlKiLALkLxo7Rrl9RKLmahdQfg==
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD/TbanAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw8SNvZ3QAD1RvWG1sRWxlbWVudE9wc3VxAH4ACQAAABdzcQB+AAur75vgdAAGbm90aWZ5c3EAfgAL8KZmknQABHdhaXRzcQB+AAusp+yndAANJGFzSW5zdGFuY2VPZnNxAH4AC/13V9J0AAZlcXVhbHNzcQB+AAs8PQ6EdAAMYXNJbnN0YW5jZU9mc3EAfgALHcDsVXQADHN5bmNocm9uaXplZHNxAH4AC4VlDoR0AA0kaXNJbnN0YW5jZU9mc3EAfgALnay9tXQACW5vdGlmeUFsbHNxAH4AC8q58qd0AAxpc0luc3RhbmNlT2ZzcQB+AAvL26lpdAAGPGluaXQ+c3EAfgAL/O7ez3QAAj09c3EAfgALcfPNqXQABWNsb25lc3EAfgAL8jHPrnQABiRpbml0JHNxAH4AC+KZ2Zl0AAh0b1N0cmluZ3NxAH4AC8Bio+50AAtUb1htbFN5bnRheHNxAH4AC4+IltR0AAIhPXNxAH4AC0DnVb50AAhnZXRDbGFzc3NxAH4AC7lCqa50AAJuZXNxAH4AC52BWXJ0AAV0b1htbHNxAH4ACydng5J0AAJlcXNxAH4ACxb9gr90AAIjI3NxAH4ACzpeTXN0AAhmaW5hbGl6ZXNxAH4AC/Wxy250AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABl4bWxlc3Muc3ludGF4LlRvWG1sU3ludGF4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBgeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfAHBzcQB+AGRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBoc3EAfgBfAHBzcQB+AGR1cQB+AEIAAAAAc3EAfgBfAHBzcQB+AGR1cQB+AEIAAAAAc3EAfgBfAHBzcQB+AGR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIVzcQB+AHh0AANBbnlzcQB+AHxzcQB+AH91cQB+AIIAAAACc3EAfgCEdAAFc2NhbGFxAH4Ai3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABnhtbGVzc3NxAH4AlXQADXhtbGVzcy5zeW50YXhzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVQK82o+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARS9Vc2Vycy9ydWlhbmRyZWJhdGlzdGEvZGV2L3Rlc3QveG1sZXNzL2NvcmUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFSpgRNRUEWBUV7eQWyqkjss+tNx
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBs47qwAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAqWGiN0AAZub3RpZnlzcQB+AAyXj1oadAAHcGFja2FnZXNxAH4ADMGR+CN0AAR3YWl0c3EAfgAMcTjpkHQADSRhc0luc3RhbmNlT2ZzcQB+AAxVip/CdAAGZXF1YWxzc3EAfgAMq4P38HQADGFzSW5zdGFuY2VPZnNxAH4ADHTGOi90AAxzeW5jaHJvbml6ZWRzcQB+AAyLiBmGdAANJGlzSW5zdGFuY2VPZnNxAH4ADPC7Iut0AAlub3RpZnlBbGxzcQB+AAyNAeXFdAAMaXNJbnN0YW5jZU9mc3EAfgAMzywtFHQAAj09c3EAfgAMfFkm8nQABWNsb25lc3EAfgAMRtuyjHQACHRvU3RyaW5nc3EAfgAMBY2X43QAAiE9c3EAfgAM7IQdgHQACGdldENsYXNzc3EAfgAMVeGmWXQAAm5lc3EAfgAM6wtRcHQABXRvWG1sc3EAfgAM1l4winQAAmVxc3EAfgAMfbHWe3QAAiMjc3EAfgAMCCURcnQACGZpbmFsaXplc3EAfgAMUmujpnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFXhtbGVzcy5zeW50YXgucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFkAcHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGJzcQB+AFkAcHNxAH4AXnVxAH4APAAAAABzcQB+AFkAcHNxAH4AXnVxAH4APAAAAABzcQB+AFkAcHNxAH4AXnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGeG1sZXNzc3EAfgCPdAANeG1sZXNzLnN5bnRheHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVArzaj51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABFL1VzZXJzL3J1aWFuZHJlYmF0aXN0YS9kZXYvdGVzdC94bWxlc3MvY29yZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUhTsKwrzdr96doLNvJXX3twngo+M=
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBAo9PxAXNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAlc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwS1yz/XQABmVxTGlzdHNxAH4AC/xY73B0AAxmbG9hdEFsZ2VicmFzcQB+AAsvFPy9dAAMZnJvbUZvbGRhYmxlc3EAfgALC5MAjnQADG9wdGlvbk1vbm9pZHNxAH4ACycOjXh0AAxzaG9ydEFsZ2VicmFzcQB+AAusQo/7dAAIY2hhclNob3dzcQB+AAsQOk/DdAALbG9uZ0FsZ2VicmFzcQB+AAvHXO6udAAKZG91YmxlU2hvd3NxAH4AC8wCk3Z0AAljaGFyT3JkZXJzcQB+AAtBAyVYdAAOYm9vbGVhbkFsZ2VicmFzcQB+AAtH83OWdAAIbGlzdFNob3dzcQB+AAv1KnB6dAANZnJlc2gkbWFjcm8kNHNxAH4AC6P+Y/t0AA5iaWdEZWNpbWFsU2hvd3NxAH4AC/2sHiR0AApzaG93T3B0aW9uc3EAfgALNUBc8HQAC3N0cmluZ1RvWG1sc3EAfgAL/KgnfnQACGJ5dGVTaG93c3EAfgAL9RgyDnQAC3VuaXRBbGdlYnJhc3EAfgALeZXwtnQAC2J5dGVBbGdlYnJhc3EAfgAL2wVS+HQAC2xpc3RBbGdlYnJhc3EAfgALnHmplXQADWZyZXNoJG1hY3JvJDFzcQB+AAtwZ8zfdAAIZnJvbVNob3dzcQB+AAvtsIqddAAMbGlzdEluc3RhbmNlc3EAfgALp0stKnQAB2ludFNob3dzcQB+AAvWzrVUdAAIaW50R3JvdXBzcQB+AAufi+8LdAAOb3B0aW9uSW5zdGFuY2VzcQB+AAsQNId8dAAKaW50QWxnZWJyYXNxAH4AC8Doq8V0AAh1bml0U2hvd3NxAH4AC+B0Db50AA1kb3VibGVBbGdlYnJhc3EAfgALgLmNgXQACGVxT3B0aW9uc3EAfgALqwaaWXQACGxvbmdTaG93c3EAfgALaf29w3QACXNob3J0U2hvd3NxAH4AC7XFFBR0ABJwYXJ0aWFsT3JkZXJPcHRpb25zcQB+AAtyq1OUdAALYm9vbGVhblNob3dzcQB+AAtGfURZdAALb3JkZXJPcHRpb25zcQB+AAs5OtE8dAAQcGFydGlhbE9yZGVyTGlzdHNxAH4AC6+lXoV0AAlmbG9hdFNob3dzcQB+AAvo6odbdAAJbGlzdE9yZGVydXEAfgAJAAAAInNxAH4ACwvVj5R0AAZub3RpZnlzcQB+AAvTTpDWdAAQSW50TWluTWF4TGF0dGljZXNxAH4ACx14PPJ0AA1mcmVzaCRtYWNybyQzc3EAfgALufoijXQABHdhaXRzcQB+AAvO0xv/dAANJGFzSW5zdGFuY2VPZnNxAH4AC/O5w590ABVEZWZhdWx0VG9YbWxJbnN0YW5jZXNzcQB+AAu98i/2dAAGZXF1YWxzc3EAfgALeom8cnQADGFzSW5zdGFuY2VPZnNxAH4ACzNKA0t0AAxUb1htbEVsZW1lbnRzcQB+AAtiNzVadAAMc3luY2hyb25pemVkc3EAfgAL+NBnMXQABVRvWG1sc3EAfgAL8pcF6nQADSRpc0luc3RhbmNlT2ZzcQB+AAuXVoy2dAARRnJvbVNob3dJbnN0YW5jZXNzcQB+AAt1VEA+dAAIRGVmYXVsdHNzcQB+AAulL1CudAAJbm90aWZ5QWxsc3EAfgALroXKsHQAIFRvWG1sRWxlbWVudExvd1ByaW9yaXR5SW5zdGFuY2Vzc3EAfgALqtSXVHQADGlzSW5zdGFuY2VPZnNxAH4AC9XxJfp0ABlUb1htbExvd1ByaW9yaXR5SW5zdGFuY2Vzc3EAfgALj9ZBjHQABWFwcGx5c3EAfgALIb0T1nQAAj09c3EAfgALwuo4K3QABWNsb25lc3EAfgALpQNg9nQABiRpbml0JHNxAH4ACzjPRcZ0AAh0b1N0cmluZ3NxAH4AC2egFJB0AAIhPXNxAH4AC+gyMLZ0AAhnZXRDbGFzc3NxAH4AC9dRCQR0AA1mcmVzaCRtYWNybyQ2c3EAfgALylUSpHQAAm5lc3EAfgALRL7yvHQAD1N0cmluZ0luc3RhbmNlc3NxAH4ACyD8lL10AAV0b1htbHNxAH4AC1NbXCZ0ABVGcm9tRm9sZGFibGVJbnN0YW5jZXNzcQB+AAtSrawgdAACZXFzcQB+AAtwN8+4dAACIyNzcQB+AAsl1ZKYdAAIZmluYWxpemVzcQB+AAv5t02xdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAANc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdABVKCJJbXBsaWNpdCBUb1htbFske1R9XSBub3QgZm91bmQuIFRyeSBzdXBwbHlpbmcgYW4gaW1wbGljaXQgaW5zdGFuY2Ugb2YgVG9YbWxbJHtUfV0iKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0ABBpbXBsaWNpdE5vdEZvdW5kc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC+c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNxAH4AynQACmFubm90YXRpb25zcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ay3NyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAXQADHhtbGVzcy5Ub1htbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAABc3IAF3hzYnRpLmFwaS5UeXBlUGFyYW1ldGVyZ2lV2+NykGsCAAZbAAthbm5vdGF0aW9uc3EAfgCqTAACaWRxAH4ADEwACmxvd2VyQm91bmRxAH4AtFsADnR5cGVQYXJhbWV0ZXJzcQB+AKdMAAp1cHBlckJvdW5kcQB+ALRMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+ALAAAAAAdAAOeG1sZXNzLlRvWG1sLlRzcQB+ALx0AAdOb3RoaW5nc3EAfgDCc3EAfgDFdXEAfgDIAAAAAnNxAH4AynEAfgDNcQB+ANF1cQB+ANUAAAAAc3EAfgC8dAADQW55cQB+AN5+cgASeHNidGkuYXBpLlZhcmlhbmNlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAANQ29udHJhdmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4A5nQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4A73hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AvnNxAH4A7gBwc3EAfgDzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKVMAAl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zcgAWeHNidGkuYXBpLlBhcmFtZXRlclJlZj/Y4zkALHOwAgABTAACaWRxAH4ADHhxAH4AvnQAFXhtbGVzcy5Ub1htbEVsZW1lbnQuVHNxAH4AvHEAfgEGc3EAfgDCc3EAfgDFdXEAfgDIAAAAA3NxAH4AynEAfgELc3EAfgDKcQB+AQ1xAH4A0XNxAH4AvHEAfgDkc3EAfgDCc3EAfgDFdXEAfgDIAAAAAnNxAH4AynEAfgDNcQB+ANFzcQB+AKJxAH4Ar3VxAH4AsAAAAABzcQB+ANIAdAATeG1sZXNzLlRvWG1sRWxlbWVudHVxAH4A1QAAAABxAH4BGHVxAH4A7AAAAAF0ACdzY2FsYS5yZWZsZWN0Lm1hY3Jvcy5pbnRlcm5hbC5tYWNyb0ltcGxzcQB+AO4AcHNxAH4A83EAfgD2c3EAfgDuAHBzcQB+APNzcQB+APlzcQB+AO4AcHNxAH4A83VxAH4AoAAAAABzcQB+AO4AcHNxAH4A83VxAH4AoAAAAABzcQB+AO4AcHNxAH4A83VxAH4BAwAAAARzcQB+ALx0ACBUb1htbEVsZW1lbnRMb3dQcmlvcml0eUluc3RhbmNlc3NxAH4AwnNxAH4AxXVxAH4AyAAAAAJzcQB+AMp0AAZ4bWxlc3NxAH4A0XNxAH4AvHQADWZyZXNoJG1hY3JvJDZzcQB+ALx0ACBUb1htbEVsZW1lbnRMb3dQcmlvcml0eUluc3RhbmNlc3EAfgJsc3EAfgC8cQB+AQZzcQB+AMJzcQB+AMV1cQB+AMgAAAADc3EAfgDKcQB+AQtzcQB+AMpxAH4BDXEAfgDRc3EAfgC8cQB+AORzcQB+AMJzcQB+AMV1cQB+AMgAAAACc3EAfgDKcQB+AM1xAH4A0XNxAH4AonEAfgCvdXEAfgCwAAAAAHNxAH4A0gF0ACd4bWxlc3MuVG9YbWxFbGVtZW50TG93UHJpb3JpdHlJbnN0YW5jZXN1cQB+ANUAAAAAcQB+AOp1cQB+AOwAAAABdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsc3EAfgDuAHBzcQB+APNxAH4A9nNxAH4A7gBwc3EAfgDzc3EAfgD5c3EAfgDuAHBzcQB+APN1cQB+AKAAAAAAc3EAfgDuAHBzcQB+APN1cQB+AKAAAAAAc3E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DAAAAGXNxAH4AvHQAFURlZmF1bHRUb1htbEluc3RhbmNlc3NxAH4AwnNxAH4AxXVxAH4AyAAAAAJzcQB+AMp0AAZ4bWxlc3NxAH4A0XNxAH4AvHQAD1N0cmluZ0luc3RhbmNlc3EAfgM8c3EAfgC8dAAVRnJvbUZvbGRhYmxlSW5zdGFuY2VzcQB+AzxzcQB+ALx0AA9PcHRpb25JbnN0YW5jZXNzcQB+AMJzcQB+AMV1cQB+AMgAAAADc3EAfgDKdAAEY2F0c3NxAH4AynQAA3N0ZHEAfgDRc3EAfgC8dAAQT3B0aW9uSW5zdGFuY2VzMXEAfgNHc3EAfgC8dAAQT3B0aW9uSW5zdGFuY2VzMnEAfgNHc3EAfgC8dAANTGlzdEluc3RhbmNlc3EAfgNHc3EAfgC8dAAOTGlzdEluc3RhbmNlczFxAH4DR3NxAH4AvHQADkxpc3RJbnN0YW5jZXMycQB+A0dzcQB+ALx0ABFGcm9tU2hvd0luc3RhbmNlc3EAfgM8c3EAfgC8dAATQmlnRGVjaW1hbEluc3RhbmNlc3EAfgNHc3EAfgC8dAAPQW55VmFsSW5zdGFuY2VzcQB+A0dzcQB+ALx0AA1Vbml0SW5zdGFuY2VzcQB+A0dzcQB+ALx0ABBCb29sZWFuSW5zdGFuY2VzcQB+A0dzcQB+ALx0ABBCb29sZWFuSW5zdGFuY2Vzc3EAfgDCc3EAfgDFdXEAfgDIAAAAA3NxAH4AynQAB2FsZ2VicmFzcQB+AMp0AANzdGRxAH4A0XNxAH4AvHQAD0RvdWJsZUluc3RhbmNlc3EAfgNHc3EAfgC8dAAORmxvYXRJbnN0YW5jZXNxAH4DR3NxAH4AvHQADlNob3J0SW5zdGFuY2VzcQB+A0dzcQB+ALx0AA1Mb25nSW5zdGFuY2VzcQB+A0dzcQB+ALx0AA1DaGFySW5zdGFuY2VzcQB+A0dzcQB+ALx0AA1CeXRlSW5zdGFuY2VzcQB+A0dzcQB+ALx0AAxJbnRJbnN0YW5jZXNxAH4DR3NxAH4AvHQADEludEluc3RhbmNlc3EAfgNkc3EAfgC8cQB+AQZzcQB+AMJzcQB+AMV1cQB+AMgAAAADc3EAfgDKcQB+AQtzcQB+AMpxAH4BDXEAfgDRc3EAfgC8cQB+AORzcQB+AMJzcQB+AMV1cQB+AMgAAAACc3EAfgDKcQB+AM1xAH4A0XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABnhtbGVzc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVArzaj51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFL1VzZXJzL3J1aWFuZHJlYmF0aXN0YS9kZXYvdGVzdC94bWxlc3MvY29yZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU4HFz975vNMQk7pXCxV1jw+LMBY4=
+external apis:
+0 items
+source infos:
+4 items
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/package.scala -> 
+AAAAAAAAAAA=
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/ToXmlSyntax.scala -> 
+AAAAAAAAAAA=
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/syntax/package.scala -> 
+AAAAAAAAAAA=
+/Users/ruiandrebatista/dev/test/xmless/core/src/main/scala/xmless/toXml.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVArzaj51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9ydWlhbmRyZWJhdGlzdGEvZGV2L3Rlc3QveG1sZXNzL2NvcmUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

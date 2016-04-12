@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mToXmlTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mToXml[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Serialize primitive values to XML[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Serialize option types[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Serialize sequences of strings[0m[0m
